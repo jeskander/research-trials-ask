@@ -8,7 +8,7 @@ export function buildSystemPrompt(trialTitle: string, chunks: Chunk[]): string {
     )
     .join("\n\n---\n\n");
 
-  return `You are a clinical trial protocol assistant helping clinicians understand NIHR research trial documents.
+  return `You are a clinical trial protocol assistant helping clinicians understand research trial documents.
 
 You are answering questions about: "${trialTitle}"
 

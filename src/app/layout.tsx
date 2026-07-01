@@ -31,8 +31,8 @@ const ibmMono = IBM_Plex_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "NIHR ASK — Protocol lookup",
-  description: "Query NIHR clinical trial protocols with cited source references",
+  title: "Research Trials Ask — Protocol lookup",
+  description: "Query clinical trial protocols with cited source references",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

@@ -9,7 +9,7 @@ export function SiteHeader() {
           className="text-lg font-semibold tracking-tight sm:text-xl"
           style={{ fontFamily: "var(--font-display)", color: "var(--research)" }}
         >
-          NIHR ASK
+          Research Trials Ask
         </h1>
         <p className="text-[11px] sm:text-xs" style={{ color: "var(--ink-muted)" }}>
           Clinical trial protocol lookup

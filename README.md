@@ -1,6 +1,6 @@
-# NIHR ASK
+# Research Trials Ask
 
-Demo RAG assistant for querying NIHR clinical trial protocols. Built for clinicians to ask questions about inclusion/exclusion criteria, endpoints, and prohibited medications.
+Demo RAG assistant for querying clinical trial protocols. Built for clinicians to ask questions about trial protocols with cited source references.
 
 **This is a demonstration only** — not for clinical use.
 
