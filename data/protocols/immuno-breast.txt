@@ -1,0 +1,60 @@
+NIHR Protocol: IMMUNO-BREAST (NIHR-207118)
+Checkpoint Inhibitor Adjuvant Therapy in Early TNBC — Phase II
+
+--- PAGE 1 ---
+1. STUDY SYNOPSIS
+Study Title: IMMUNO-BREAST — A phase II study of adjuvant pembrolizumab versus observation following standard chemotherapy in early-stage triple-negative breast cancer (TNBC).
+Sponsor: NIHR Manchester Cancer Research Centre
+Primary Objective: To assess invasive disease-free survival (iDFS) at 3 years with adjuvant pembrolizumab versus observation.
+
+--- PAGE 2 ---
+2. STUDY POPULATION
+Target enrolment: 320 participants at 14 UK oncology centres.
+Population: Adults with stage II–III triple-negative breast cancer who have completed neoadjuvant or adjuvant chemotherapy with residual disease or high-risk pathological features.
+
+--- PAGE 3 ---
+3. INCLUSION CRITERIA
+Participants must meet ALL of the following:
+- Age 18 years or older.
+- Histologically confirmed invasive triple-negative breast cancer (ER <1%, PR <1%, HER2 negative by IHC/ISH).
+- Stage IIA–IIIC per AJCC 8th edition.
+- Completion of standard (neo)adjuvant chemotherapy within 12 weeks prior to randomisation.
+- Residual invasive disease after neoadjuvant therapy (if applicable) OR node-positive disease after adjuvant therapy.
+- ECOG performance status 0 or 1.
+- Adequate organ function:
+  - ANC ≥1.5×10⁹/L, platelets ≥100×10⁹/L, haemoglobin ≥90 g/L.
+  - Total bilirubin ≤1.5× ULN (≤3× ULN if Gilbert syndrome).
+  - AST/ALT ≤2.5× ULN.
+  - Creatinine clearance ≥50 mL/min (Cockcroft-Gault).
+- Written informed consent.
+
+--- PAGE 4 ---
+4. EXCLUSION CRITERIA
+Participants meeting ANY of the following are excluded:
+- Active autoimmune disease requiring systemic immunosuppression within 2 years (exceptions: vitiligo, controlled hypothyroidism, type 1 diabetes on stable insulin).
+- Prior treatment with anti-PD-1, anti-PD-L1, or anti-CTLA-4 agents.
+- Active interstitial lung disease or pneumonitis.
+- Live vaccine within 30 days of randomisation.
+- Uncontrolled HIV, active hepatitis B (HBsAg positive), or hepatitis C with detectable viral load.
+- Pregnancy, breastfeeding, or unwillingness to use effective contraception during treatment and for 120 days after last dose.
+- Concurrent malignancy except adequately treated basal cell carcinoma or cervical CIS.
+- Systemic corticosteroids >10 mg prednisolone daily equivalent within 14 days of first dose (inhaled/topical steroids permitted).
+- Organ transplant requiring immunosuppression.
+
+--- PAGE 5 ---
+5. STUDY TREATMENT
+Experimental arm: Pembrolizumab 200 mg IV every 3 weeks for up to 17 cycles (approximately 1 year).
+Control arm: Observation with standard oncological follow-up per local guidelines.
+
+--- PAGE 6 ---
+6. ENDPOINTS
+Primary Endpoint: Invasive disease-free survival (iDFS) at 36 months.
+Secondary Endpoints:
+- Overall survival at 36 months.
+- Distant disease-free survival.
+- Safety and tolerability (immune-related adverse events).
+- Patient-reported outcomes (EORTC QLQ-C30 and QLQ-BR23).
+
+--- PAGE 7 ---
+7. IMMUNE-RELATED MONITORING
+Participants will be monitored for immune-related adverse events including colitis, hepatitis, pneumonitis, endocrinopathies, and dermatologic reactions per protocol-specific management algorithms. Corticosteroid taper guidelines are provided in Appendix C.

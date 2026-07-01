@@ -1,0 +1,90 @@
+[
+  {
+    "id": "deci",
+    "title": "WHiTE 13 – Delirium and Cognitive Impairment (DeCI)",
+    "condition": "Hip fracture / hip trauma",
+    "phase": "III",
+    "sponsor": "University of Oxford / Oxford University Hospitals NHS Foundation Trust",
+    "protocolFile": "DECI.pdf"
+  },
+  {
+    "id": "didact",
+    "title": "DIDACT: Surgery vs sling for displaced distal clavicle fracture",
+    "condition": "Distal clavicle fracture",
+    "phase": "III",
+    "sponsor": "Multi-centre pragmatic RCT",
+    "protocolFile": "DIDACT.pdf"
+  },
+  {
+    "id": "draft3",
+    "title": "DRAFT 3 – CASP: Cast vs splint for distal radius fracture",
+    "condition": "Distal radius fracture",
+    "phase": "III",
+    "sponsor": "University of Oxford / Oxford University Hospitals NHS Foundation Trust",
+    "protocolFile": "DRAFT3.pdf"
+  },
+  {
+    "id": "flare",
+    "title": "FLARE: FDP alone vs FDP and FDS repair for zone 2 flexor tendon injuries",
+    "condition": "Flexor tendon injury (zone 2)",
+    "phase": "III",
+    "sponsor": "FLexor re pAir and R E habilitation Trial",
+    "protocolFile": "FLARE.pdf"
+  },
+  {
+    "id": "fruiti",
+    "title": "WHiTE 11 – Fix or Replace Undisplaced Intracapsular fractures (FRUITI)",
+    "condition": "Hip fracture / undisplaced intracapsular fracture",
+    "phase": "III",
+    "sponsor": "University of Oxford / Oxford University Hospitals NHS Foundation Trust",
+    "protocolFile": "FRUITI.pdf"
+  },
+  {
+    "id": "lit",
+    "title": "WHiTE 10 – Lidocaine Intravenous Trial (LIT)",
+    "condition": "Hip fracture / hip trauma",
+    "phase": "III",
+    "sponsor": "University of Oxford / Oxford University Hospitals NHS Foundation Trust",
+    "protocolFile": "LIT.pdf"
+  },
+  {
+    "id": "oddsocks",
+    "title": "ODD SOCKS: Surgery vs cast for displaced distal tibial fractures in children",
+    "condition": "Paediatric distal tibial fracture",
+    "phase": "III",
+    "sponsor": "Multi-centre prospective RCT",
+    "protocolFile": "ODDSOCKS.pdf"
+  },
+  {
+    "id": "pressure-3",
+    "title": "WHiTE 14 – Pressure ulcer prevention 3 (heel adjunct devices)",
+    "condition": "Hip fracture / pressure ulcer prevention",
+    "phase": "III",
+    "sponsor": "University of Oxford / Oxford University Hospitals NHS Foundation Trust",
+    "protocolFile": "PRESSURE 3.pdf"
+  },
+  {
+    "id": "promote",
+    "title": "PROMOTE: Pain management intervention after major trauma (feasibility)",
+    "condition": "Major trauma rehabilitation",
+    "phase": "Feasibility",
+    "sponsor": "University of Exeter / University of Oxford",
+    "protocolFile": "PROMOTE.pdf"
+  },
+  {
+    "id": "result-hip",
+    "title": "RESULT-Hip: Restrictive vs liberal transfusion in hip fracture surgery",
+    "condition": "Hip fracture surgery",
+    "phase": "III",
+    "sponsor": "University of Edinburgh",
+    "protocolFile": "RESULT.pdf"
+  },
+  {
+    "id": "wise",
+    "title": "WISE: Progressive resistance and flexibility exercises after distal radius fracture",
+    "condition": "Distal radius fracture (adults 50+)",
+    "phase": "III",
+    "sponsor": "University of Oxford",
+    "protocolFile": "WISE.pdf"
+  }
+]

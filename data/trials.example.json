@@ -1,0 +1,10 @@
+[
+  {
+    "id": "nihr-123456",
+    "title": "Example Trial Title",
+    "condition": "Condition or disease area",
+    "phase": "III",
+    "sponsor": "Sponsor name",
+    "protocolFile": "example-protocol.pdf"
+  }
+]

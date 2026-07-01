@@ -1,0 +1,124 @@
+@import "tailwindcss";
+
+@custom-variant landscape-short (@media (orientation: landscape) and (max-height: 500px));
+
+:root {
+  --header-height: 3.5rem;
+  --paper: #f7f6f3;
+  --surface: #ffffff;
+  --ink: #1c1c1e;
+  --ink-muted: #5c5c63;
+  --ink-faint: #8e8e93;
+  --research: #003087;
+  --research-soft: #e8edf5;
+  --citation: #7a5c1e;
+  --citation-soft: #f5f0e6;
+  --rule: #d4d0c8;
+  --rule-strong: #b8b4ac;
+  --error-bg: #fdf2f2;
+  --error-text: #9b1c1c;
+  --demo-bg: #f0ebe3;
+  --demo-text: #5c4d3a;
+
+  --font-display: var(--font-source-serif), "Georgia", serif;
+  --font-body: var(--font-ibm-plex), system-ui, sans-serif;
+  --font-mono: var(--font-ibm-mono), "Menlo", monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: 15px;
+  line-height: 1.55;
+  min-height: 100dvh;
+  padding-left: env(safe-area-inset-left);
+  padding-right: env(safe-area-inset-right);
+}
+
+@supports (height: 100dvh) {
+  .app-viewport {
+    height: calc(100dvh - var(--header-height));
+  }
+}
+
+@supports not (height: 100dvh) {
+  .app-viewport {
+    height: calc(100vh - var(--header-height));
+  }
+}
+
+.safe-bottom {
+  padding-bottom: max(0.75rem, env(safe-area-inset-bottom));
+}
+
+.safe-top {
+  padding-top: env(safe-area-inset-top);
+}
+
+::selection {
+  background: var(--research-soft);
+  color: var(--research);
+}
+
+:focus-visible {
+  outline: 2px solid var(--research);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse-dot {
+  0%,
+  80%,
+  100% {
+    opacity: 0.3;
+  }
+  40% {
+    opacity: 1;
+  }
+}
+
+.animate-in {
+  animation: fade-in 0.25s ease-out both;
+}
+
+.loading-dot {
+  animation: pulse-dot 1.2s ease-in-out infinite;
+}
+
+.loading-dot:nth-child(2) {
+  animation-delay: 0.15s;
+}
+
+.loading-dot:nth-child(3) {
+  animation-delay: 0.3s;
+}

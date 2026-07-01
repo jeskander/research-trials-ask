@@ -1,0 +1,62 @@
+NIHR Protocol: BREATHE-EASY (NIHR-211902)
+Triple Therapy in Moderate COPD — Phase III
+
+--- PAGE 1 ---
+1. STUDY SYNOPSIS
+Study Title: BREATHE-EASY — A 52-week randomised trial comparing single-inhaler triple therapy (ICS/LABA/LAMA) versus dual bronchodilator therapy in moderate-to-severe COPD.
+Sponsor: NIHR Respiratory Translational Research Collaboration
+Primary Objective: To evaluate annual moderate-to-severe exacerbation rate with triple therapy versus LABA/LAMA dual therapy.
+
+--- PAGE 2 ---
+2. STUDY POPULATION
+Target enrolment: 900 participants across 22 UK respiratory clinics.
+Population: Adults with moderate-to-severe COPD and history of at least one exacerbation in the prior 12 months.
+
+--- PAGE 3 ---
+3. INCLUSION CRITERIA
+Participants must meet ALL of the following:
+- Age 40 to 80 years.
+- Post-bronchodilator FEV1 30% to 70% of predicted.
+- Post-bronchodilator FEV1/FVC ratio <0.70 confirming airflow obstruction.
+- COPD Assessment Test (CAT) score ≥10.
+- At least one moderate or severe COPD exacerbation in the 12 months prior to screening.
+- Current or former smoker with ≥10 pack-year history.
+- Able to use a dry powder inhaler device correctly after training.
+- Written informed consent.
+
+--- PAGE 4 ---
+4. EXCLUSION CRITERIA
+Participants meeting ANY of the following are excluded:
+- Asthma as primary diagnosis or asthma-COPD overlap with predominant reversible airflow obstruction (>12% and >200 mL FEV1 reversibility).
+- Long-term oxygen therapy >15 hours per day.
+- Diagnosis of α-1 antitrypsin deficiency as primary lung disease.
+- Active pulmonary tuberculosis or untreated non-tuberculous mycobacterial infection.
+- Oral corticosteroid use >10 mg prednisolone daily equivalent for >14 consecutive days within 4 weeks of screening.
+- Initiation of pulmonary rehabilitation within 6 weeks of randomisation.
+- Known hypersensitivity to inhaled corticosteroids, beta-agonists, or anticholinergics.
+- Pregnancy or breastfeeding.
+- eGFR <30 mL/min/1.73m².
+
+--- PAGE 5 ---
+5. RENAL AND METABOLIC EXCLUSIONS
+Additional renal exclusions:
+- Severe renal impairment (eGFR <30 mL/min/1.73m²) is an exclusion criterion.
+- Participants with eGFR 30–59 mL/min/1.73m² may enrol but require 3-monthly renal monitoring due to potential ICS-related effects on adrenal axis in severe CKD (investigator discretion).
+
+--- PAGE 6 ---
+6. ENDPOINTS
+Primary Endpoint: Annual rate of moderate-to-severe COPD exacerbations over 52 weeks.
+Secondary Endpoints:
+- Time to first moderate-to-severe exacerbation.
+- Change in St George's Respiratory Questionnaire (SGRQ) total score.
+- Change in post-bronchodilator FEV1.
+- All-cause mortality at 52 weeks.
+- Incidence of pneumonia (safety endpoint).
+
+--- PAGE 7 ---
+7. PROHIBITED THERAPIES
+Prohibited during the study:
+- Additional inhaled corticosteroids outside the assigned regimen.
+- Long-acting muscarinic antagonists or long-acting beta-agonists not provided by the study.
+- Roflumilast initiation.
+- Maintenance oral corticosteroids unless pre-existing stable dose documented at screening.

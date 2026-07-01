@@ -1,0 +1,59 @@
+NIHR Protocol: GLUCO-GUARD (NIHR-204521)
+Metformin for Prediabetes Prevention — Phase III
+
+--- PAGE 1 ---
+1. STUDY SYNOPSIS
+Study Title: GLUCO-GUARD — A randomised, double-blind, placebo-controlled trial of metformin extended-release for prevention of type 2 diabetes in adults with prediabetes.
+Sponsor: NIHR Cambridge Biomedical Research Centre
+Primary Objective: To determine whether metformin ER 1500 mg daily reduces progression to type 2 diabetes over 3 years compared with placebo.
+
+--- PAGE 2 ---
+2. STUDY POPULATION
+Target enrolment: 1,200 participants across 18 UK sites.
+Population: Adults aged 30–70 years with biochemically confirmed prediabetes.
+
+--- PAGE 3 ---
+3. INCLUSION CRITERIA
+Participants must meet ALL of the following:
+- Age 30 to 70 years at screening (inclusive).
+- HbA1c 6.0% to 6.4% (42–47 mmol/mol) on two occasions at least 2 weeks apart.
+- Fasting plasma glucose 5.6 to 6.9 mmol/L.
+- BMI 25.0 to 45.0 kg/m².
+- Willing and able to provide written informed consent.
+- Able to attend scheduled follow-up visits for 36 months.
+
+--- PAGE 4 ---
+4. EXCLUSION CRITERIA
+Participants meeting ANY of the following are excluded:
+- Established type 2 diabetes (HbA1c ≥6.5% or fasting glucose ≥7.0 mmol/L).
+- eGFR <45 mL/min/1.73m² (CKD-EPI equation).
+- Active liver disease or ALT/AST >2.5× upper limit of normal.
+- Current use of metformin, GLP-1 receptor agonists, SGLT2 inhibitors, or insulin.
+- History of lactic acidosis.
+- Pregnancy, breastfeeding, or planning pregnancy during the study period.
+- Known hypersensitivity to metformin.
+- Participation in another interventional clinical trial within 30 days.
+
+--- PAGE 5 ---
+5. PROHIBITED MEDICATIONS
+The following medications are prohibited during the study unless medically necessary and approved by the medical monitor:
+- Metformin (any formulation).
+- Sulfonylureas initiated for glycaemic control.
+- GLP-1 receptor agonists.
+- SGLT2 inhibitors.
+- Thiazolidinediones.
+Short courses of systemic corticosteroids require documentation in the case report form.
+
+--- PAGE 6 ---
+6. ENDPOINTS
+Primary Endpoint: Time to diagnosis of type 2 diabetes (HbA1c ≥6.5% on two consecutive occasions or fasting glucose ≥7.0 mmol/L) at 36 months.
+Secondary Endpoints:
+- Change in HbA1c from baseline to 12, 24, and 36 months.
+- Change in body weight and waist circumference.
+- Incidence of metabolic syndrome.
+- Safety and tolerability of metformin ER.
+
+--- PAGE 7 ---
+7. STUDY DESIGN
+Randomisation 1:1 to metformin ER 1500 mg once daily or matched placebo.
+Treatment duration: 36 months with visits at months 1, 3, 6, 12, 18, 24, 30, and 36.

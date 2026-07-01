@@ -1,0 +1,56 @@
+NIHR Protocol: HEART-FIT (NIHR-198734)
+Supervised Exercise Rehabilitation in Heart Failure — Phase II
+
+--- PAGE 1 ---
+1. STUDY SYNOPSIS
+Study Title: HEART-FIT — A randomised controlled trial of supervised exercise rehabilitation versus usual care in patients with chronic heart failure with reduced ejection fraction (HFrEF).
+Sponsor: NIHR Leeds Clinical Research Facility
+Primary Objective: To assess whether a 12-week supervised exercise programme improves 6-minute walk distance at 12 weeks compared with usual care.
+
+--- PAGE 2 ---
+2. STUDY POPULATION
+Target enrolment: 240 participants at 8 UK cardiology centres.
+Population: Adults with stable chronic HFrEF on optimised guideline-directed medical therapy.
+
+--- PAGE 3 ---
+3. INCLUSION CRITERIA
+Participants must meet ALL of the following:
+- Age 18 years or older.
+- Documented heart failure diagnosis for at least 3 months.
+- Left ventricular ejection fraction (LVEF) ≤40% on echocardiography within 6 months.
+- NYHA functional class II or III.
+- On stable heart failure medications for at least 4 weeks (ACE inhibitor/ARB/ARNI, beta-blocker, MRA as tolerated).
+- Able to walk independently with or without a walking aid.
+- Written informed consent.
+
+--- PAGE 4 ---
+4. EXCLUSION CRITERIA
+Participants meeting ANY of the following are excluded:
+- Acute decompensated heart failure within 6 weeks of screening.
+- Unstable angina or myocardial infarction within 3 months.
+- Symptomatic hypotension (systolic BP <90 mmHg) at rest.
+- Severe aortic stenosis or hypertrophic obstructive cardiomyopathy.
+- eGFR <30 mL/min/1.73m².
+- Uncontrolled arrhythmia deemed unsafe for exercise by investigator.
+- Primary pulmonary hypertension.
+- Musculoskeletal or neurological condition precluding exercise participation.
+- Enrolment in cardiac rehabilitation within the past 6 months.
+- Pregnancy or breastfeeding.
+
+--- PAGE 5 ---
+5. INTERVENTION
+Intervention arm: 12 weeks of supervised aerobic and resistance exercise, 3 sessions per week (36 sessions total), delivered by accredited cardiac rehabilitation physiotherapists.
+Control arm: Usual care with written physical activity advice per NICE NG106.
+
+--- PAGE 6 ---
+6. ENDPOINTS
+Primary Endpoint: Change in 6-minute walk distance from baseline to 12 weeks.
+Secondary Endpoints:
+- Change in Kansas City Cardiomyopathy Questionnaire (KCCQ) score.
+- Change in NT-proBNP at 12 and 24 weeks.
+- All-cause hospitalisation at 24 weeks.
+- Safety: serious adverse events and exercise-related adverse events.
+
+--- PAGE 7 ---
+7. RENAL FUNCTION MONITORING
+Renal function (creatinine, eGFR) will be checked at baseline and week 12. Participants with eGFR 30–44 mL/min/1.73m² may be enrolled at investigator discretion with enhanced monitoring.
